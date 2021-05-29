@@ -1,1 +1,1 @@
-web unicorn sanko:app
+web: python sanko.py
