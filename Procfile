@@ -1,1 +1,1 @@
-web: python sanko.py
+web: run:app
